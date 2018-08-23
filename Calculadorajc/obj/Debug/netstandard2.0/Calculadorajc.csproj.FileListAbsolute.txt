@@ -1,0 +1,9 @@
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/bin/Debug/netstandard2.0/Calculadorajc.deps.json
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/bin/Debug/netstandard2.0/Calculadorajc.dll
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/bin/Debug/netstandard2.0/Calculadorajc.pdb
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/obj/Debug/netstandard2.0/Calculadorajc.csprojResolveAssemblyReference.cache
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/obj/Debug/netstandard2.0/Calculadorajc.csproj.CoreCompileInputs.cache
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/obj/Debug/netstandard2.0/Calculadorajc.AssemblyInfoInputs.cache
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/obj/Debug/netstandard2.0/Calculadorajc.AssemblyInfo.cs
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/obj/Debug/netstandard2.0/Calculadorajc.dll
+/Users/vivelabtunja25/Projects/Calculadorajc/Calculadorajc/obj/Debug/netstandard2.0/Calculadorajc.pdb
